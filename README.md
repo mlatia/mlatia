@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlatia&label=Profile%20views&color=0e75b6&style=flat" alt="mlatia" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://melati-portofolio.vercel.app/](https://melati-portofolio.vercel.app/)
+- All of my projects are available at [https://melati-portofolio.vercel.app/](https://melati-portofolio.vercel.app/)
 
 - 📫 How to reach me **melatiangg20@gmail.com or 13522035@std.stei.itb.ac.id**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14kPkSO0GmZS1SZ8ZcAN6QQOEkj39Kg0J/view](https://drive.google.com/file/d/14kPkSO0GmZS1SZ8ZcAN6QQOEkj39Kg0J/view)
+- Know about my experiences [https://drive.google.com/file/d/14kPkSO0GmZS1SZ8ZcAN6QQOEkj39Kg0J/view](https://drive.google.com/file/d/14kPkSO0GmZS1SZ8ZcAN6QQOEkj39Kg0J/view)
 
 - ⚡ Fun fact **Interest All about Creative and Design.**
 
